@@ -1,0 +1,30 @@
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/Calc.deps.json
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/Calc.runtimeconfig.json
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/Calc.runtimeconfig.dev.json
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/Calc.dll
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/ref/Calc.dll
+/Users/davis.miller/Documents/C Sharp/Calc/bin/Debug/net5.0/Calc.pdb
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.csproj.AssemblyReference.cache
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.AssemblyInfoInputs.cache
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.AssemblyInfo.cs
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.csproj.CoreCompileInputs.cache
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.dll
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/ref/Calc.dll
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.pdb
+/Users/davis.miller/Documents/C Sharp/Calc/obj/Debug/net5.0/Calc.genruntimeconfig.cache
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/Calc.deps.json
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/Calc.runtimeconfig.json
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/Calc.runtimeconfig.dev.json
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/Calc.dll
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/ref/Calc.dll
+/Users/davis.miller/Documents/Calc/bin/Debug/net5.0/Calc.pdb
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.csproj.AssemblyReference.cache
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.AssemblyInfoInputs.cache
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.AssemblyInfo.cs
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.csproj.CoreCompileInputs.cache
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.dll
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/ref/Calc.dll
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.pdb
+/Users/davis.miller/Documents/Calc/obj/Debug/net5.0/Calc.genruntimeconfig.cache
