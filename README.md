@@ -1,2 +1,2 @@
 # Calculator
- A console base c# calculator
+ A console based c# calculator
