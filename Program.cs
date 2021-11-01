@@ -12,7 +12,7 @@ namespace Calc
             Console.WriteLine("Console calculator\r");
             Console.WriteLine("------------------\n");
 
-            Console.WriteLine("Type a number, and then press Enter");
+            Console.WriteLine("Type your first number, and then press Enter");
             num1 = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Type another number, and then press Enter");
