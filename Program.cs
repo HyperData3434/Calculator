@@ -12,18 +12,18 @@ namespace Calc
             Console.WriteLine("Console calculator\r");
             Console.WriteLine("------------------\n");
 
+            Console.WriteLine("Type your first number, and then press Enter");
+            num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Type another number, and then press Enter");
+            num2 = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine("Choose an option");
             Console.WriteLine("\t+ - Add");
             Console.WriteLine("\t- - Subtract");
             Console.WriteLine("\t* - Multiply");
             Console.WriteLine("\t/ - Divide");
             Console.Write("Your option- ");
-
-            Console.WriteLine("Type your first number, and then press Enter");
-            num1 = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Type another number, and then press Enter");
-            num2 = Convert.ToInt32(Console.ReadLine());
 
             switch (Console.ReadLine())
             {
