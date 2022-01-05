@@ -30,21 +30,29 @@ namespace Calc
             {
                 case "+":
                     Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine();
+                    Console.WriteLine("The answer is:");
                     Console.WriteLine($"{num1} + {num2} = " + (num1 + num2));
                     Console.ResetColor();
                     break;
                 case "-":
                     Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine();
+                    Console.WriteLine("The answer is:");
                     Console.WriteLine($"{num1} - {num2} = " + (num1 - num2));
                     Console.ResetColor();
                     break;
                 case "*":
                     Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine();
+                    Console.WriteLine("The answer is:");
                     Console.WriteLine($"{num1} * {num2} = " + (num1 * num2));
                     Console.ResetColor();
                     break;
                 case "/":
                     Console.ForegroundColor = ConsoleColor.Blue;
+                    Console.WriteLine();
+                    Console.WriteLine("The answer is:");
                     Console.WriteLine($"{num1} / {num2} = " + (num1 / num2));
                     Console.ResetColor();
                     break;
