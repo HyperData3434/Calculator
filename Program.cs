@@ -57,7 +57,9 @@ namespace Calc
                     Console.ResetColor();
                     break;
             }
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Press return/enter to close the Calculator console app.");
+            Console.ResetColor();
             while (Console.ReadKey().Key != ConsoleKey.Enter) {}
         }
     }
