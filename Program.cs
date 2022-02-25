@@ -6,14 +6,14 @@ namespace Calc
     {
         static void Main(string[] args)
         {
-            int num1 = 0;
-            int num2 = 0;
+            double num1 = 0;
+            double num2 = 0;
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Console calculator\r");
             Console.WriteLine("------------------\n");
             Console.ResetColor();
-            
+             
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Choose an option");
             Console.WriteLine("\t+ = Add");
@@ -27,12 +27,12 @@ namespace Calc
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Type your first number, and then press Enter");
             Console.ResetColor();
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
 
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.WriteLine("Type another number, and then press Enter");
             Console.ResetColor();
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDouble(Console.ReadLine());
             
             switch (Operation)
             {
